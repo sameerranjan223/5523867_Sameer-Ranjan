@@ -10,5 +10,5 @@
 
 
 
-<img src = "https://github.com/sameerranjan223/5523867\_Sameer-Ranjan/blob/main/GIT/GIT%20CERTIFICATE.pdf" alt = "image">
+<img src = "https://github.com/sameerranjan223/5523867\_Sameer-Ranjan/blob/main/GIT/certificate%20ss.png" alt = "image">
 
